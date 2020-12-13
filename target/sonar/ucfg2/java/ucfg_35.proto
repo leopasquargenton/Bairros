@@ -1,0 +1,78 @@
+
+6com.pasqual.geometria.Reta#equals(Ljava/lang/Object;)ZQ
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java ("startingBlock*≥
+2Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java" $(7"[
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java" $(7
+""*π
+3Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java$ $(„‡
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java$ $(!
+%3com.pasqual.geometria.Ponto"?com.pasqual.geometria.Reta#getP2()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Reta2getP2()ÓÎ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java$$ $(5!
+%4com.pasqual.geometria.Ponto"?com.pasqual.geometria.Reta#getP2()Lcom/pasqual/geometria/Ponto;*)
+'
+	outraRetacom.pasqual.geometria.Reta2getP2()ÑÅ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java$ $(6
+%5boolean"7com.pasqual.geometria.Ponto#equals(Ljava/lang/Object;)Z*#
+!
+%3com.pasqual.geometria.Ponto*#
+!
+%4com.pasqual.geometria.Ponto2equals(Ljava/lang/Object;)*
+2*î
+startingBlockQ
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java ('ù
+ö
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (
+%6"
+__annotate*
+java.lang.Override*
+
+outrojava.lang.Objectá
+Ñ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java! (&
+outrojava.lang.Object"__annotation*
+
+%6*
+4
+1*·
+4Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java!# !((¢
+ü
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java! !()'
+	outraRetacom.pasqual.geometria.Reta"__id*
+
+outrojava.lang.Object„‡
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java# #(!
+%0com.pasqual.geometria.Ponto"?com.pasqual.geometria.Reta#getP1()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Reta2getP1()ÓÎ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java#$ #(5!
+%1com.pasqual.geometria.Ponto"?com.pasqual.geometria.Reta#getP1()Lcom/pasqual/geometria/Ponto;*)
+'
+	outraRetacom.pasqual.geometria.Reta2getP1()ÑÅ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java# #(6
+%2boolean"7com.pasqual.geometria.Ponto#equals(Ljava/lang/Object;)Z*#
+!
+%0com.pasqual.geometria.Ponto*#
+!
+%1com.pasqual.geometria.Ponto2equals(Ljava/lang/Object;)*
+2
+3*≥
+1Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java& &("[
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java& &(
+"":
+outrojava.lang.ObjectB
+com.pasqual.geometria.Reta

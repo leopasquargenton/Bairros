@@ -1,0 +1,78 @@
+
+/com.pasqual.Roteiro#equals(Ljava/lang/Object;)ZJ
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java9 9("startingBlock*¥
+2J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java< =(S"T
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java< =(S
+""*ñ
+3J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java= =(ÒÏ
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java= =(*
+%3com.pasqual.Bairro":com.pasqual.Roteiro#getBairroDestino()Lcom/pasqual/Bairro;*
+com.pasqual.Roteiro2getBairroDestino()àÝ
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java=2 =(Q
+%4com.pasqual.Bairro":com.pasqual.Roteiro#getBairroDestino()Lcom/pasqual/Bairro;*%
+#
+outroRoteirocom.pasqual.Roteiro2getBairroDestino()âß
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java= =(R
+%5boolean".com.pasqual.Bairro#equals(Ljava/lang/Object;)Z*
+
+%3com.pasqual.Bairro*
+
+%4com.pasqual.Bairro2equals(Ljava/lang/Object;)*
+2*ý
+startingBlockJ
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java9 9('–
+“
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java8 8(
+%6"
+__annotate*
+java.lang.Override*
+
+outrojava.lang.Object
+}
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java9! 9(&
+outrojava.lang.Object"__annotation*
+
+%6*
+4
+1*Š
+4J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java;, ;(1—
+”
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java; ;(2#
+outroRoteirocom.pasqual.Roteiro"__id*
+
+outrojava.lang.ObjectÐÍ
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java< <()
+%0com.pasqual.Bairro"9com.pasqual.Roteiro#getBairroOrigem()Lcom/pasqual/Bairro;*
+com.pasqual.Roteiro2getBairroOrigem()ÞÛ
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java<1 <(O
+%1com.pasqual.Bairro"9com.pasqual.Roteiro#getBairroOrigem()Lcom/pasqual/Bairro;*%
+#
+outroRoteirocom.pasqual.Roteiro2getBairroOrigem()âß
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java< <(P
+%2boolean".com.pasqual.Bairro#equals(Ljava/lang/Object;)Z*
+
+%0com.pasqual.Bairro*
+
+%1com.pasqual.Bairro2equals(Ljava/lang/Object;)*
+2
+3*¥
+1J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java? ?("T
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java? ?(
+"":
+outrojava.lang.ObjectB
+com.pasqual.Roteiro

@@ -1,0 +1,51 @@
+
+/com.pasqual.Bairro#toString()Ljava/lang/String;I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java0 0("1*à
+1I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1 1(˜
+•
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1! 1(% 
+%0com.pasqual.geometria.Area"__id* *
+com.pasqual.Bairro"
+area§
+¤
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1 1(%
+%1java.lang.String"__concat*
+Bairro [area=*"
+ 
+%0com.pasqual.geometria.Area—
+”
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1 1(1
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+, nome=Ž
+‹
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java14 1(8
+%3java.lang.String"__id* *
+com.pasqual.Bairro"
+nome¤
+¡
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1 1(8
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String‘
+Ž
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1 1(>
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"e
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java1 1(?
+
+%5java.lang.StringB
+com.pasqual.Bairro

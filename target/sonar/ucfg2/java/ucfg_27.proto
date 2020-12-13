@@ -1,0 +1,67 @@
+
+gcom.pasqual.geometria.Area#classifica(Lcom/pasqual/geometria/Reta;)Lcom/pasqual/geometria/SituacaoReta;Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java& &(""9*è
+3Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java/ /('Ž
+‹
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java/ /(1(
+%5"com.pasqual.geometria.SituacaoReta"__id*
+"""
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java/ /(2*
+(
+%5"com.pasqual.geometria.SituacaoReta*è
+8Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java+ +(Ž
+‹
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java+ +(+(
+%4"com.pasqual.geometria.SituacaoReta"__id*
+"""
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java+ +(,*
+(
+%4"com.pasqual.geometria.SituacaoReta*ý
+9Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java' '(!éæ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java'" '(.!
+%0com.pasqual.geometria.Ponto"?com.pasqual.geometria.Reta#getP1()Lcom/pasqual/geometria/Ponto;*$
+"
+retacom.pasqual.geometria.Reta2getP1()Ÿœ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java' '(/
+
+%1byte"Hcom.pasqual.geometria.Area#codificaPonto(Lcom/pasqual/geometria/Ponto;)B*
+com.pasqual.geometria.Area*#
+!
+%0com.pasqual.geometria.Ponto2,codificaPonto(Lcom/pasqual/geometria/Ponto;)éæ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java(" ((.!
+%2com.pasqual.geometria.Ponto"?com.pasqual.geometria.Reta#getP2()Lcom/pasqual/geometria/Ponto;*$
+"
+retacom.pasqual.geometria.Reta2getP2()Ÿœ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java( ((/
+
+%3byte"Hcom.pasqual.geometria.Area#codificaPonto(Lcom/pasqual/geometria/Ponto;)B*
+com.pasqual.geometria.Area*#
+!
+%2com.pasqual.geometria.Ponto2,codificaPonto(Lcom/pasqual/geometria/Ponto;)*	
+3
+8
+1*è
+1Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java2 2(Ž
+‹
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java2 2(*(
+%6"com.pasqual.geometria.SituacaoReta"__id*
+"""
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java2 2(+*
+(
+%6"com.pasqual.geometria.SituacaoReta:"
+retacom.pasqual.geometria.RetaB
+com.pasqual.geometria.Area

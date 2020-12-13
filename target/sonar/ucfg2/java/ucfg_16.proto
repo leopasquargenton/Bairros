@@ -1,0 +1,92 @@
+
+.com.pasqual.Bairro#equals(Ljava/lang/Object;)ZI
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java5 5("startingBlock*£
+2I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java8 ;(="S
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java8 ;(=
+""*ü
+3I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java; ;(ÍÊ
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java; ;( 
+%5com.pasqual.geometria.Area"8com.pasqual.Bairro#getArea()Lcom/pasqual/geometria/Area;*
+com.pasqual.Bairro2	getArea()Ú×
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java;& ;(; 
+%6com.pasqual.geometria.Area"8com.pasqual.Bairro#getArea()Lcom/pasqual/geometria/Area;*#
+!
+outroBairrocom.pasqual.Bairro2	getArea()ùö
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java; ;(<
+%7boolean"6com.pasqual.geometria.Area#equals(Ljava/lang/Object;)Z*"
+ 
+%5com.pasqual.geometria.Area*"
+ 
+%6com.pasqual.geometria.Area2equals(Ljava/lang/Object;)*
+2*ú
+startingBlockI
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java5 5('•
+’
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java4 4(
+%8"
+__annotate*
+java.lang.Override*
+
+outrojava.lang.Object~
+|
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java5! 5(&
+outrojava.lang.Object"__annotation*
+
+%8*
+6
+1*Ñ
+5I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java: :(´±
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java: :()
+%3double"(com.pasqual.Bairro#getCustoTransporte()D*
+com.pasqual.Bairro2getCustoTransporte()Á¾
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java:- :(M
+%4double"(com.pasqual.Bairro#getCustoTransporte()D*#
+!
+outroBairrocom.pasqual.Bairro2getCustoTransporte()*
+2
+3*Ó
+6I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java7) 7(.”
+‘
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java7 7(/!
+outroBairrocom.pasqual.Bairro"__id*
+
+outrojava.lang.Object¹¶
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java9 9(
+%0java.lang.String".com.pasqual.Bairro#getNome()Ljava/lang/String;*
+com.pasqual.Bairro2	getNome()ÆÃ
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java9& 9(;
+%1java.lang.String".com.pasqual.Bairro#getNome()Ljava/lang/String;*#
+!
+outroBairrocom.pasqual.Bairro2	getNome()ÛØ
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java9 9(<
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)*	
+2
+3
+5*£
+1I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java= =("S
+I
+?C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Bairro.java= =(
+"":
+outrojava.lang.ObjectB
+com.pasqual.Bairro

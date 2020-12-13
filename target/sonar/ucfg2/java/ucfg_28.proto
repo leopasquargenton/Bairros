@@ -1,0 +1,52 @@
+
+7com.pasqual.geometria.Area#toString()Ljava/lang/String;Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java7 7("1*Ò	
+1Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8 8(¬
+©
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8" 8()!
+%0com.pasqual.geometria.Ponto"__id*+*)
+com.pasqual.geometria.Area"	
+pInfDir±
+®
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8 8()
+%1java.lang.String"__concat*
+Area [pInfDir=*#
+!
+%0com.pasqual.geometria.Ponto¢
+Ÿ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8 8(8
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+, pSupEsq=¬
+©
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8; 8(B!
+%3com.pasqual.geometria.Ponto"__id*+*)
+com.pasqual.geometria.Area"	
+pSupEsq·
+´
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8 8(B
+%4java.lang.String"__concat*
+
+%2java.lang.String*#
+!
+%3com.pasqual.geometria.Ponto™
+–
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8 8(H
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"m
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java8 8(I
+
+%5java.lang.StringB
+com.pasqual.geometria.Area

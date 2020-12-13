@@ -1,0 +1,7 @@
+organization=leopasquargenton
+projectKey=leopasquargenton_Bairros
+serverUrl=https://sonarcloud.io
+serverVersion=8.5.0.37579
+dashboardUrl=https://sonarcloud.io/dashboard?id=leopasquargenton_Bairros
+ceTaskId=AXZdnk3xxN7ftST5akSj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXZdnk3xxN7ftST5akSj

@@ -1,0 +1,90 @@
+
+Fcom.pasqual.geometria.Area#pontoCentral()Lcom/pasqual/geometria/Ponto;Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java ("1*Ã
+1Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java (íê
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java (!
+%0com.pasqual.geometria.Ponto"Dcom.pasqual.geometria.Area#getPSupEsq()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Area2getPSupEsq()³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java (#	
+%1int"#com.pasqual.geometria.Ponto#getX()I*#
+!
+%0com.pasqual.geometria.Ponto2getX()íê
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java. (:!
+%2com.pasqual.geometria.Ponto"Dcom.pasqual.geometria.Area#getPInfDir()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Area2getPInfDir()³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java. (A	
+%3int"#com.pasqual.geometria.Ponto#getX()I*#
+!
+%2com.pasqual.geometria.Ponto2getX()íê
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.javaD (P!
+%4com.pasqual.geometria.Ponto"Dcom.pasqual.geometria.Area#getPSupEsq()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Area2getPSupEsq()³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.javaD (W	
+%5int"#com.pasqual.geometria.Ponto#getX()I*#
+!
+%4com.pasqual.geometria.Ponto2getX()•
+’
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java% (X	
+%6int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""íê
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java (!
+%7com.pasqual.geometria.Ponto"Dcom.pasqual.geometria.Area#getPInfDir()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Area2getPInfDir()³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java (#	
+%8int"#com.pasqual.geometria.Ponto#getY()I*#
+!
+%7com.pasqual.geometria.Ponto2getY()íê
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java. (:!
+%9com.pasqual.geometria.Ponto"Dcom.pasqual.geometria.Area#getPInfDir()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Area2getPInfDir()´±
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java. (A
+
+%10int"#com.pasqual.geometria.Ponto#getY()I*#
+!
+%9com.pasqual.geometria.Ponto2getY()îë
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.javaD (P"
+%11com.pasqual.geometria.Ponto"Dcom.pasqual.geometria.Area#getPSupEsq()Lcom/pasqual/geometria/Ponto;*
+com.pasqual.geometria.Area2getPSupEsq()µ²
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.javaD (W
+
+%12int"#com.pasqual.geometria.Ponto#getY()I*$
+"
+%11com.pasqual.geometria.Ponto2getY()–
+“
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java% (X
+
+%13int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""—”
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java ("
+%14com.pasqual.geometria.Ponto"com.pasqual.geometria.Ponto¼
+¹
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java (
+%15"'com.pasqual.geometria.Ponto#<init>(II)V*$
+"
+%14com.pasqual.geometria.Ponto*
+""*
+"""y
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java ($
+"
+%14com.pasqual.geometria.PontoB
+com.pasqual.geometria.Area

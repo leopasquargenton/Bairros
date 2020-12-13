@@ -1,0 +1,71 @@
+
+%com.pasqual.geometria.Reta#tamanho()DQ
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java ("1*”
+1Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (§
+¤
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (!
+%0com.pasqual.geometria.Ponto"__id*&*$
+com.pasqual.geometria.Reta"
+p2³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (	
+%1int"#com.pasqual.geometria.Ponto#getX()I*#
+!
+%0com.pasqual.geometria.Ponto2getX()§
+¤
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (!!
+%2com.pasqual.geometria.Ponto"__id*&*$
+com.pasqual.geometria.Reta"
+p1³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java ((	
+%3int"#com.pasqual.geometria.Ponto#getX()I*#
+!
+%2com.pasqual.geometria.Ponto2getX()Ÿ
+œ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (+
+%4double"java.lang.Math#pow(DD)D*"
+java.lang.Math*
+""*2§
+¤
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (!
+%5com.pasqual.geometria.Ponto"__id*&*$
+com.pasqual.geometria.Reta"
+p2³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (	
+%6int"#com.pasqual.geometria.Ponto#getY()I*#
+!
+%5com.pasqual.geometria.Ponto2getY()§
+¤
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (!!
+%7com.pasqual.geometria.Ponto"__id*&*$
+com.pasqual.geometria.Reta"
+p1³°
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java ((	
+%8int"#com.pasqual.geometria.Ponto#getY()I*#
+!
+%7com.pasqual.geometria.Ponto2getY()Ÿ
+œ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (+
+%9double"java.lang.Math#pow(DD)D*"
+java.lang.Math*
+""*2š
+—
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (,
+%10double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""[
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Reta.java (-
+""B
+com.pasqual.geometria.Reta

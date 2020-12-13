@@ -1,0 +1,51 @@
+
+0com.pasqual.Roteiro#toString()Ljava/lang/String;J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java4 4("1*Å	
+1J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5 5((õ
+ò
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5+ 5(8
+%0com.pasqual.Bairro"__id***(
+com.pasqual.Roteiro"
+bairroDestino™
+ß
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5 5(8
+%1java.lang.String"__concat*
+Roteiro [bairroDestino=*
+
+%0com.pasqual.Bairro†
+ù
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5 5(L
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, bairroOrigem=ö
+ó
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5O 5([
+%3com.pasqual.Bairro"__id*)*'
+com.pasqual.Roteiro"
+bairroOrigemß
+§
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5 5([
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3com.pasqual.Bairroí
+è
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5 5(a
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"f
+J
+@C:/Users/lpasqual/Bairros/src/main/java/com/pasqual/Roteiro.java5 5(b
+
+%5java.lang.StringB
+com.pasqual.Roteiro

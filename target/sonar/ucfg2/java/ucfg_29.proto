@@ -1,0 +1,86 @@
+
+6com.pasqual.geometria.Area#equals(Ljava/lang/Object;)ZQ
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java< <("startingBlock*≥
+2Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java? @(5"[
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java? @(5
+""*«
+3Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java@ @(¨
+©
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java@ @(!
+%3com.pasqual.geometria.Ponto"__id*+*)
+com.pasqual.geometria.Area"	
+pInfDir≥
+∞
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java@$ @(1!
+%4com.pasqual.geometria.Ponto"__id*2*0
+#
+outracom.pasqual.geometria.Area"	
+pInfDirÑÅ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java@ @(2
+%5boolean"7com.pasqual.geometria.Ponto#equals(Ljava/lang/Object;)Z*#
+!
+%3com.pasqual.geometria.Ponto*#
+!
+%4com.pasqual.geometria.Ponto2equals(Ljava/lang/Object;)*
+2*î
+startingBlockQ
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java< <('ù
+ö
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java; ;(
+%6"
+__annotate*
+java.lang.Override*
+
+outrojava.lang.Objectá
+Ñ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java<! <(&
+outrojava.lang.Object"__annotation*
+
+%6*
+4
+1*Î
+4Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java> >($û
+õ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java> >(%#
+outracom.pasqual.geometria.Area"__id*
+
+outrojava.lang.Object¨
+©
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java? ?(!
+%0com.pasqual.geometria.Ponto"__id*+*)
+com.pasqual.geometria.Area"	
+pSupEsq≥
+∞
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java?$ ?(1!
+%1com.pasqual.geometria.Ponto"__id*2*0
+#
+outracom.pasqual.geometria.Area"	
+pSupEsqÑÅ
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.java? ?(2
+%2boolean"7com.pasqual.geometria.Ponto#equals(Ljava/lang/Object;)Z*#
+!
+%0com.pasqual.geometria.Ponto*#
+!
+%1com.pasqual.geometria.Ponto2equals(Ljava/lang/Object;)*
+2
+3*≥
+1Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.javaB B("[
+Q
+GC:/Users/lpasqual/Bairros/src/main/java/com/pasqual/geometria/Area.javaB B(
+"":
+outrojava.lang.ObjectB
+com.pasqual.geometria.Area
