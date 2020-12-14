@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.pasqual.AreaTest" time="0.673" tests="23" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.pasqual.AreaTest" time="0.648" tests="23" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\lpasqual\AppData\Local\Temp\surefire6896227585991154205\surefirebooter6151377721297008841.jar C:\Users\lpasqual\AppData\Local\Temp\surefire6896227585991154205 2020-12-13T16-37-27_187-jvmRun1 surefire13327091732964533894tmp surefire_017843531370883968301tmp"/>
+    <property name="sun.java.command" value="C:\Users\lpasqual\AppData\Local\Temp\surefire191433218472641907\surefirebooter13930255022941285291.jar C:\Users\lpasqual\AppData\Local\Temp\surefire191433218472641907 2020-12-13T23-26-41_350-jvmRun1 surefire18397140372220621399tmp surefire_013418339399592819997tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\lpasqual\Bairros\target\test-classes;C:\Users\lpasqual\Bairros\target\classes;C:\Users\lpasqual\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;C:\Users\lpasqual\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\lpasqual\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\lpasqual\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\lpasqual\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\lpasqual\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\lpasqual\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.2\junit-jupiter-params-5.6.2.jar;C:\Users\lpasqual\.m2\repository\org\mockito\mockito-core\3.5.13\mockito-core-3.5.13.jar;C:\Users\lpasqual\.m2\repository\net\bytebuddy\byte-buddy\1.10.15\byte-buddy-1.10.15.jar;C:\Users\lpasqual\.m2\repository\net\bytebuddy\byte-buddy-agent\1.10.15\byte-buddy-agent-1.10.15.jar;C:\Users\lpasqual\.m2\repository\org\objenesis\objenesis\3.1\objenesis-3.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\lpasqual\AppData\Local\Temp\surefire6896227585991154205\surefirebooter6151377721297008841.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\lpasqual\AppData\Local\Temp\surefire191433218472641907\surefirebooter13930255022941285291.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.2+12-46"/>
@@ -55,27 +55,27 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="pontoCentral" classname="com.pasqual.AreaTest" time="0.155"/>
+  <testcase name="pontoCentral" classname="com.pasqual.AreaTest" time="0.149"/>
   <testcase name="codifica(byte, int, int)[1]" classname="com.pasqual.AreaTest" time="0.06"/>
-  <testcase name="codifica(byte, int, int)[2]" classname="com.pasqual.AreaTest" time="0.007"/>
+  <testcase name="codifica(byte, int, int)[2]" classname="com.pasqual.AreaTest" time="0.004"/>
   <testcase name="codifica(byte, int, int)[3]" classname="com.pasqual.AreaTest" time="0.004"/>
   <testcase name="codifica(byte, int, int)[4]" classname="com.pasqual.AreaTest" time="0.004"/>
-  <testcase name="codifica(byte, int, int)[5]" classname="com.pasqual.AreaTest" time="0.003"/>
+  <testcase name="codifica(byte, int, int)[5]" classname="com.pasqual.AreaTest" time="0.004"/>
   <testcase name="codifica(byte, int, int)[6]" classname="com.pasqual.AreaTest" time="0.003"/>
-  <testcase name="codifica(byte, int, int)[7]" classname="com.pasqual.AreaTest" time="0.003"/>
-  <testcase name="codifica(byte, int, int)[8]" classname="com.pasqual.AreaTest" time="0.004"/>
-  <testcase name="codifica(byte, int, int)[9]" classname="com.pasqual.AreaTest" time="0.002"/>
+  <testcase name="codifica(byte, int, int)[7]" classname="com.pasqual.AreaTest" time="0.004"/>
+  <testcase name="codifica(byte, int, int)[8]" classname="com.pasqual.AreaTest" time="0.002"/>
+  <testcase name="codifica(byte, int, int)[9]" classname="com.pasqual.AreaTest" time="0.003"/>
   <testcase name="codifica(byte, int, int)[10]" classname="com.pasqual.AreaTest" time="0.003"/>
   <testcase name="codifica(byte, int, int)[11]" classname="com.pasqual.AreaTest" time="0.003"/>
-  <testcase name="codifica(byte, int, int)[12]" classname="com.pasqual.AreaTest" time="0.003"/>
+  <testcase name="codifica(byte, int, int)[12]" classname="com.pasqual.AreaTest" time="0.002"/>
   <testcase name="codifica(byte, int, int)[13]" classname="com.pasqual.AreaTest" time="0.005"/>
-  <testcase name="codifica(byte, int, int)[14]" classname="com.pasqual.AreaTest" time="0.003"/>
+  <testcase name="codifica(byte, int, int)[14]" classname="com.pasqual.AreaTest" time="0.006"/>
   <testcase name="codifica(byte, int, int)[15]" classname="com.pasqual.AreaTest" time="0.003"/>
-  <testcase name="codifica(byte, int, int)[16]" classname="com.pasqual.AreaTest" time="0.004"/>
-  <testcase name="codifica(byte, int, int)[17]" classname="com.pasqual.AreaTest" time="0.005"/>
-  <testcase name="areaIgual" classname="com.pasqual.AreaTest" time="0.001"/>
+  <testcase name="codifica(byte, int, int)[16]" classname="com.pasqual.AreaTest" time="0.005"/>
+  <testcase name="codifica(byte, int, int)[17]" classname="com.pasqual.AreaTest" time="0.004"/>
+  <testcase name="areaIgual" classname="com.pasqual.AreaTest" time="0.004"/>
   <testcase name="areaDesigual" classname="com.pasqual.AreaTest" time="0.003"/>
-  <testcase name="classificaReta(SituacaoReta, int, int, int, int)[1]" classname="com.pasqual.AreaTest" time="0.006"/>
-  <testcase name="classificaReta(SituacaoReta, int, int, int, int)[2]" classname="com.pasqual.AreaTest" time="0.003"/>
-  <testcase name="construtorErrado" classname="com.pasqual.AreaTest" time="0.004"/>
+  <testcase name="classificaReta(SituacaoReta, int, int, int, int)[1]" classname="com.pasqual.AreaTest" time="0.007"/>
+  <testcase name="classificaReta(SituacaoReta, int, int, int, int)[2]" classname="com.pasqual.AreaTest" time="0.002"/>
+  <testcase name="construtorErrado" classname="com.pasqual.AreaTest" time="0.006"/>
 </testsuite>

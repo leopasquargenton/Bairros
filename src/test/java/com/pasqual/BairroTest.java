@@ -13,6 +13,7 @@ public class BairroTest {
 	private Ponto pRetangul;
 	@BeforeEach
 	void setUp(){ 
+
 		pQuadrada = new Ponto(3,5);
 		pRetangul = new Ponto(8,9);
 		bQuadrado = bairro.novoBairroQuadrado("Azenha", pQuadrada, 7, 320.45);
